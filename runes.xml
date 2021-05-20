@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <runes>
+        <id>8112</id>
+        <key>Electrocute</key>
+        <icon>img_runes/Domination/Electrocute/Electrocute.png</icon>
+        <name>Electrocute</name>
+        <shortDesc>Hitting a champion with 3 &lt;b&gt;separate&lt;/b&gt; attacks or abilities in 3s deals bonus &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_AdaptiveDmg&#x27;&gt;adaptive damage&lt;/lol-uikit-tooltipped-keyword&gt;.</shortDesc>
+        <longDesc>Hitting a champion with 3 &lt;b&gt;separate&lt;/b&gt; attacks or abilities within 3s deals bonus &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_AdaptiveDmg&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive damage&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt;.&lt;br&gt;&lt;br&gt;Damage: 30 - 180 (+0.4 bonus AD, +0.25 AP) damage.&lt;br&gt;&lt;br&gt;Cooldown: 25 - 20s&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;i&gt;&#x27;We called them the Thunderlords, for to speak of their lightning was to invite disaster.&#x27;&lt;/i&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8124</id>
+        <key>Predator</key>
+        <icon>img_runes/Domination/Predator/Predator.png</icon>
+        <name>Predator</name>
+        <shortDesc>Add an active effect to your boots that grants a large boost of &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_MS&#x27;&gt;MS&lt;/lol-uikit-tooltipped-keyword&gt; and causes your next attack or ability to deal bonus &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_AdaptiveDmg&#x27;&gt;adaptive damage&lt;/lol-uikit-tooltipped-keyword&gt;.</shortDesc>
+        <longDesc>Enchants your boots with the active effect &#x27;&lt;font color=&#x27;#c60300&#x27;&gt;Predator&lt;/font&gt;.&#x27;&lt;br&gt;&lt;br&gt;Gain increased Movement Speed, ramping up to 45% Movement Speed over 1.5 seconds, while chasing enemy champions. After ramping up, damaging attacks or abilities to champions end this effect, dealing 40-120 (+&lt;scaleAD&gt;0.2&lt;/scaleAD&gt; bonus AD)(+&lt;scaleAP&gt;0.1&lt;/scaleAP&gt; AP) bonus &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_AdaptiveDmg&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive damage&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt;.&lt;br&gt;&lt;br&gt;Cooldown: 90s-60s.</longDesc>
+    </runes>
+    <runes>
+        <id>8128</id>
+        <key>DarkHarvest</key>
+        <icon>img_runes/Domination/DarkHarvest/DarkHarvest.png</icon>
+        <name>Dark Harvest</name>
+        <shortDesc>Damaging a low health champion inflicts &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_AdaptiveDmg&#x27;&gt;adaptive damage&lt;/lol-uikit-tooltipped-keyword&gt; and harvests a soul from the victim.</shortDesc>
+        <longDesc>Damaging a Champion below 50% health deals &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_AdaptiveDmg&#x27;&gt;adaptive damage&lt;/lol-uikit-tooltipped-keyword&gt; and harvests their soul, permanently increasing Dark Harvest&#x27;s damage by 5.&lt;br&gt;&lt;br&gt;Dark Harvest damage: 20-60 (based on level) (+5 damage per soul) (+0.25 bonus AD) (+0.15 AP)&lt;br&gt;Cooldown: 45s (resets to 1.5s on takedown)</longDesc>
+    </runes>
+    <runes>
+        <id>9923</id>
+        <key>HailOfBlades</key>
+        <icon>img_runes/Domination/HailOfBlades/HailOfBlades.png</icon>
+        <name>Hail of Blades</name>
+        <shortDesc>Gain a large amount of Attack Speed for the first 3 attacks made against enemy champions.</shortDesc>
+        <longDesc>Gain 110% Attack Speed when you attack an enemy champion for up to 3 attacks.&lt;br&gt;&lt;br&gt;No more than 3s can elapse between attacks or this effect will end.&lt;br&gt;&lt;br&gt;Cooldown: 8s.&lt;br&gt;&lt;br&gt;&lt;rules&gt;Attack resets increase the attack limit by 1.&lt;br&gt;Allows you to temporarily exceed the attack speed limit.&lt;/rules&gt;</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8126</id>
+        <key>CheapShot</key>
+        <icon>img_runes/Domination/CheapShot/CheapShot.png</icon>
+        <name>Cheap Shot</name>
+        <shortDesc>Deal bonus true damage to enemy champions with &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_ImpairAct&#x27;&gt;impaired movement or actions&lt;/lol-uikit-tooltipped-keyword&gt;. </shortDesc>
+        <longDesc>Damaging champions with &lt;b&gt;impaired movement or actions&lt;/b&gt; deals 10 - 45 bonus true damage (based on level).&lt;br&gt;&lt;br&gt;Cooldown: 4s&lt;br&gt;&lt;rules&gt;Activates on damage occurring after the impairment.&lt;/rules&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8139</id>
+        <key>TasteOfBlood</key>
+        <icon>img_runes/Domination/TasteOfBlood/GreenTerror_TasteOfBlood.png</icon>
+        <name>Taste of Blood</name>
+        <shortDesc>Heal when you damage an enemy champion.</shortDesc>
+        <longDesc>Heal when you damage an enemy champion.&lt;br&gt;&lt;br&gt;Healing: 18-35 (+0.2 bonus AD, +0.1 AP) health (based on level)&lt;br&gt;&lt;br&gt;Cooldown: 20s</longDesc>
+    </runes>
+    <runes>
+        <id>8143</id>
+        <key>SuddenImpact</key>
+        <icon>img_runes/Domination/SuddenImpact/SuddenImpact.png</icon>
+        <name>Sudden Impact</name>
+        <shortDesc>Gain a burst of Lethality and Magic Penetration after using a dash, leap, blink, teleport, or when leaving stealth.</shortDesc>
+        <longDesc>After exiting stealth or using a dash, leap, blink, or teleport, dealing any damage to a champion grants you 7 Lethality and 6 Magic Penetration for 5s.&lt;br&gt;&lt;br&gt;Cooldown: 4s</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8136</id>
+        <key>ZombieWard</key>
+        <icon>img_runes/Domination/ZombieWard/ZombieWard.png</icon>
+        <name>Zombie Ward</name>
+        <shortDesc>&lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;Takedowns&lt;/lol-uikit-tooltipped-keyword&gt; on enemy Wards cause friendly Zombie Wards to sprout from their corpses. Gain permanent AD or AP, &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;adaptive&lt;/lol-uikit-tooltipped-keyword&gt; for each Zombie Ward spawned plus bonus upon completion.</shortDesc>
+        <longDesc>&lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;Takedowns&lt;/lol-uikit-tooltipped-keyword&gt; on enemy Wards cause friendly Zombie Wards to sprout from their corpses.&lt;br&gt;&lt;br&gt;Gain an &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; bonus of 1.2 Attack Damage or 2 Ability Power for every Zombie Ward spawned, up to 10. &lt;br&gt;&lt;br&gt;After spawning 10 Zombie Wards, additionally gain 10 adaptive force.&lt;br&gt;&lt;br&gt;Zombie Wards are visible, last for 120s and do not count towards your ward limit.</longDesc>
+    </runes>
+    <runes>
+        <id>8120</id>
+        <key>GhostPoro</key>
+        <icon>img_runes/Domination/GhostPoro/GhostPoro.png</icon>
+        <name>Ghost Poro</name>
+        <shortDesc>When your wards expire, they leave behind a Ghost Poro. The Ghost Poro grants vision until discovered. Gain permanent AD or AP, &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;adaptive&lt;/lol-uikit-tooltipped-keyword&gt; for each Ghost Poro and when your Ghost Poro spots an enemy champion, plus bonus upon completion.</shortDesc>
+        <longDesc>When your wards expire, they leave behind a Ghost Poro, which grants vision for 60s. Nearby enemy champions scare the Ghost Poro away.&lt;br&gt;&lt;br&gt;Gain an &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; bonus of 1.2 Attack Damage or 2 Ability Power for every Ghost Poro spawned and when your Ghost Poro spots an enemy champion up to 10 stacks. &lt;br&gt;&lt;br&gt;After gaining 10 stacks, additionally gain 10 adaptive force.</longDesc>
+    </runes>
+    <runes>
+        <id>8138</id>
+        <key>EyeballCollection</key>
+        <icon>img_runes/Domination/EyeballCollection/EyeballCollection.png</icon>
+        <name>Eyeball Collection</name>
+        <shortDesc>Collect eyeballs for champion &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;takedowns&lt;/lol-uikit-tooltipped-keyword&gt;. Gain permanent AD or AP, &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;adaptive&lt;/lol-uikit-tooltipped-keyword&gt; for each eyeball plus bonus upon collection completion.</shortDesc>
+        <longDesc>Collect eyeballs for champion takedowns. Gain an &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; bonus of 1.2 Attack Damage or 2 Ability Power, per eyeball collected. &lt;br&gt;&lt;br&gt;Upon completing your collection at 10 eyeballs, additionally gain an &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; bonus of 6 Attack Damage, or 10 Ability Power.&lt;br&gt;&lt;br&gt;Collect 1 eyeball per champion takedown.</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8135</id>
+        <key>RavenousHunter</key>
+        <icon>img_runes/Domination/RavenousHunter/RavenousHunter.png</icon>
+        <name>Ravenous Hunter</name>
+        <shortDesc>&lt;b&gt;Unique&lt;/b&gt; &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;takedowns&lt;/lol-uikit-tooltipped-keyword&gt; grant permanent &lt;lifesteal&gt;Omnivamp&lt;/lifesteal&gt;. </shortDesc>
+        <longDesc>&lt;lifeSteal&gt;Omnivamp&lt;/lifeSteal&gt;: 1.5% per &lt;i&gt;Bounty Hunter&lt;/i&gt; stack. &lt;br&gt;&lt;br&gt;&lt;i&gt;Bounty Hunter&lt;/i&gt; stacks are earned the first time you get a takedown on each enemy champion.&lt;br&gt;&lt;br&gt;&lt;rules&gt;Omnivamp is only 33% effective when dealing area of effect damage or damage through pets.&lt;/rules&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8134</id>
+        <key>IngeniousHunter</key>
+        <icon>img_runes/Domination/IngeniousHunter/IngeniousHunter.png</icon>
+        <name>Ingenious Hunter</name>
+        <shortDesc>&lt;b&gt;Unique&lt;/b&gt; &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;takedowns&lt;/lol-uikit-tooltipped-keyword&gt; grant permanent Item &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_CDR&#x27;&gt;Haste&lt;/lol-uikit-tooltipped-keyword&gt; (includes Trinkets).</shortDesc>
+        <longDesc>Gain &lt;attention&gt;10&lt;/attention&gt; &lt;b&gt;Item Haste&lt;/b&gt; plus an additional &lt;attention&gt;5&lt;/attention&gt; &lt;b&gt;Item Haste&lt;/b&gt; per &lt;i&gt;Bounty Hunter&lt;/i&gt; stack (includes Trinkets).&lt;br&gt;&lt;br&gt;&lt;i&gt;Bounty Hunter&lt;/i&gt; stacks are earned the first time you get a takedown on each enemy champion.&lt;br&gt;&lt;br&gt;&lt;rules&gt;Item Haste affects all items with cooldowns. &lt;/rules&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8105</id>
+        <key>RelentlessHunter</key>
+        <icon>img_runes/Domination/RelentlessHunter/RelentlessHunter.png</icon>
+        <name>Relentless Hunter</name>
+        <shortDesc>&lt;b&gt;Unique&lt;/b&gt; &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;takedowns&lt;/lol-uikit-tooltipped-keyword&gt; grant permanent &lt;b&gt;out of combat &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_MS&#x27;&gt;MS&lt;/lol-uikit-tooltipped-keyword&gt;&lt;/b&gt;. </shortDesc>
+        <longDesc>Gain &lt;speed&gt;5 Move Speed&lt;/speed&gt; out of combat plus &lt;speed&gt;8&lt;/speed&gt; per &lt;i&gt;Bounty Hunter&lt;/i&gt; stack.&lt;br&gt;&lt;br&gt;&lt;i&gt;Bounty Hunter&lt;/i&gt; stacks are earned the first time you get a takedown on each enemy champion.</longDesc>
+    </runes>
+    <runes>
+        <id>8106</id>
+        <key>UltimateHunter</key>
+        <icon>img_runes/Domination/UltimateHunter/UltimateHunter.png</icon>
+        <name>Ultimate Hunter</name>
+        <shortDesc>&lt;b&gt;Unique&lt;/b&gt; &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;takedowns&lt;/lol-uikit-tooltipped-keyword&gt; grant permanent cooldown reduction on your Ultimate. </shortDesc>
+        <longDesc>Your ultimate gains &lt;attention&gt;6&lt;/attention&gt; Ability Haste, plus an additional &lt;attention&gt;5&lt;/attention&gt; Ability Haste per &lt;i&gt;Bounty Hunter&lt;/i&gt; stack.&lt;br&gt;&lt;br&gt;&lt;i&gt;Bounty Hunter&lt;/i&gt; stacks are earned the first time you get a takedown on each enemy champion.</longDesc>
+    </runes>
+
+
+
+    <id>8300</id>
+    <key>Inspiration</key>
+    <icon>img_runes/7203_Whimsy.png</icon>
+    <name>Inspiration</name>
+
+    <runes>
+        <id>8351</id>
+        <key>GlacialAugment</key>
+        <icon>img_runes/Inspiration/GlacialAugment/GlacialAugment.png</icon>
+        <name>Glacial Augment</name>
+        <shortDesc>Your first attack against an enemy champion slows them (per unit cooldown). Slowing champions with active items shoots a freeze ray at them, creating a lingering slow zone.</shortDesc>
+        <longDesc>Basic attacking a champion slows them for 2s. The slow increases in strength over its duration.&lt;li&gt;&lt;i&gt;Ranged&lt;/i&gt;: Ranged attacks slow by up to 30% - 40%&lt;/li&gt; &lt;li&gt;&lt;i&gt;Melee&lt;/i&gt;: Melee attacks slow by up to 45% - 55%&lt;/li&gt;&lt;br&gt;Slowing a champion with active items shoots a freeze ray through them, freezing the nearby ground for 5s, slowing all units inside by 60%.&lt;br&gt;&lt;br&gt;Cooldown: 7-4s per unit</longDesc>
+    </runes>
+    <runes>
+        <id>8360</id>
+        <key>UnsealedSpellbook</key>
+        <icon>img_runes/Inspiration/UnsealedSpellbook/UnsealedSpellbook.png</icon>
+        <name>Unsealed Spellbook</name>
+        <shortDesc>Swap Summoner Spells while out of combat. Swapping to unique Summoner Spells will increase the rate at which you can make future swaps.</shortDesc>
+        <longDesc>Swap one of your equipped Summoner Spells to a new, single use Summoner Spell. Each unique Summoner Spell you swap to permanently decreases your swap cooldown by 25s (initial swap cooldown is at 5 mins). &lt;br&gt;&lt;br&gt;Your first swap becomes available at 6 mins. &lt;br&gt;&lt;rules&gt;&lt;br&gt;Summoner Spells can only be swapped while out of combat. &lt;br&gt;After using a swapped Summoner Spell you must swap 3 more times before the first can be selected again.&lt;br&gt;Smite damage increases after two Summoner Spell swaps. &lt;/rules&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8358</id>
+        <key>MasterKey</key>
+        <icon>img_runes/Inspiration/MasterKey/MasterKey.png</icon>
+        <name>Prototype: Omnistone</name>
+        <shortDesc>Periodically grants a single use of another random keystone.</shortDesc>
+        <longDesc>Periodically grants a single use of another random keystone.&lt;br&gt;&lt;br&gt;5-3  second cooldown between using a keystone and gaining the next. (9-7 seconds for ranged users)&lt;br&gt;&lt;br&gt;&lt;rules&gt;&lt;br&gt;After 40 seconds of not using a given keystone, Omnistone will re-roll when you exit champion combat.&lt;br&gt;Aftershock is only available to champions who have learned a basic spell that can trigger it.&lt;br&gt;Predator is only available to champions who have already purchased boots.&lt;br&gt;&lt;/rules&gt;</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8306</id>
+        <key>HextechFlashtraption</key>
+        <icon>img_runes/Inspiration/HextechFlashtraption/HextechFlashtraption.png</icon>
+        <name>Hextech Flashtraption</name>
+        <shortDesc>While Flash is on cooldown it is replaced by &lt;i&gt;Hexflash&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;i&gt;Hexflash&lt;/i&gt;: Channel, then blink to a new location.</shortDesc>
+        <longDesc>While Flash is on cooldown it is replaced by &lt;i&gt;Hexflash&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;i&gt;Hexflash&lt;/i&gt;: Channel for 2s to blink to a new location.&lt;br&gt;&lt;br&gt;Cooldown: 20s. Goes on a 10s cooldown when you enter champion combat.</longDesc>
+    </runes>
+    <runes>
+        <id>8304</id>
+        <key>MagicalFootwear</key>
+        <icon>img_runes/Inspiration/MagicalFootwear/MagicalFootwear.png</icon>
+        <name>Magical Footwear</name>
+        <shortDesc>You get free boots at 12 min but you cannot buy boots before then. Each &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;takedown&lt;/lol-uikit-tooltipped-keyword&gt; you get makes your boots come 45s sooner.</shortDesc>
+        <longDesc>You get free Slightly Magical Footwear at 12 min, but you cannot buy boots before then. For each takedown you acquire the boots 45s sooner.&lt;br&gt;&lt;br&gt;Slightly Magical Footwear grants you an additional &lt;speed&gt;10 Move Speed&lt;/speed&gt;.</longDesc>
+    </runes>
+    <runes>
+        <id>8313</id>
+        <key>PerfectTiming</key>
+        <icon>img_runes/Inspiration/PerfectTiming/PerfectTiming.png</icon>
+        <name>Perfect Timing</name>
+        <shortDesc>Gain a free Commencing Stopwatch. After 14 minutes, it can be used for a one time &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Stasis&#x27;&gt;Stasis&lt;/lol-uikit-tooltipped-keyword&gt; effect. &lt;br&gt;&lt;br&gt;Each &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;takedown&lt;/lol-uikit-tooltipped-keyword&gt; you get shortens this timer by 120 seconds.</shortDesc>
+        <longDesc>Begin the game with a Commencing Stopwatch that transforms into a Stopwatch after 14 minutes. Each takedown you acquire reduces this timer by 120 seconds.&lt;br&gt;&lt;br&gt;Stopwatch can be used for a one time 2.5 second Stasis effect.</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8321</id>
+        <key>FuturesMarket</key>
+        <icon>img_runes/Inspiration/FuturesMarket/FuturesMarket.png</icon>
+        <name>Future&#x27;s Market</name>
+        <shortDesc>You can enter debt to buy items.</shortDesc>
+        <longDesc>You can enter debt to buy items. The amount you can borrow increases over time.&lt;br&gt;&lt;br&gt;Lending Fee: 50 gold</longDesc>
+    </runes>
+    <runes>
+        <id>8316</id>
+        <key>MinionDematerializer</key>
+        <icon>img_runes/Inspiration/MinionDematerializer/MinionDematerializer.png</icon>
+        <name>Minion Dematerializer</name>
+        <shortDesc>Start the game with 3 Minion Dematerializers. Killing minions with the item gives permanent bonus damage vs. that minion type.</shortDesc>
+        <longDesc>Start the game with 3 Minion Dematerializers that kill and absorb lane minions instantly. Minion Dematerializers are on cooldown for the first 180s of the game.&lt;br&gt;&lt;br&gt;Absorbing a minion increases your damage by +6% against that type of minion permanently, and an extra +3% for each additional minion of that type absorbed.&lt;br&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8345</id>
+        <key>BiscuitDelivery</key>
+        <icon>img_runes/Inspiration/BiscuitDelivery/BiscuitDelivery.png</icon>
+        <name>Biscuit Delivery</name>
+        <shortDesc>Gain a free Biscuit every 2 min, until 6 min. Consuming or selling a Biscuit permanently increases your max mana and restores health and mana.</shortDesc>
+        <longDesc>Biscuit Delivery: Gain a Total Biscuit of Everlasting Will every 2 mins, until 6 min.&lt;br&gt;&lt;br&gt;Biscuits restore 10% of your missing health and mana. Consuming or selling a Biscuit permanently increases your mana cap by 50. &lt;br&gt;&lt;br&gt;&lt;i&gt;Manaless:&lt;/i&gt; Champions without mana restore 12% missing health instead.</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8347</id>
+        <key>CosmicInsight</key>
+        <icon>img_runes/Inspiration/CosmicInsight/CosmicInsight.png</icon>
+        <name>Cosmic Insight</name>
+        <shortDesc>+&lt;attention&gt;18&lt;/attention&gt; Summoner Spell Haste&lt;br&gt;+&lt;attention&gt;10&lt;/attention&gt; Item Haste</shortDesc>
+        <longDesc>+&lt;attention&gt;18&lt;/attention&gt; Summoner Spell Haste&lt;br&gt;+&lt;attention&gt;10&lt;/attention&gt; Item Haste</longDesc>
+    </runes>
+    <runes>
+        <id>8410</id>
+        <key>ApproachVelocity</key>
+        <icon>img_runes/Resolve/ApproachVelocity/ApproachVelocity.png</icon>
+        <name>Approach Velocity</name>
+        <shortDesc>Bonus &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_MS&#x27;&gt;MS&lt;/lol-uikit-tooltipped-keyword&gt; towards nearby enemy champions that are &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_ImpairMov&#x27;&gt;movement impaired&lt;/lol-uikit-tooltipped-keyword&gt;, increased for enemy champions that you impair.</shortDesc>
+        <longDesc>Gain &lt;speed&gt;7.5% Move Speed&lt;/speed&gt; towards nearby enemy champions that are movement impaired. This bonus is increased to &lt;speed&gt;15% Move Speed&lt;/speed&gt; for any enemy champion that you impair. &lt;br&gt;&lt;br&gt;Activation Range for CC from allies: 1000</longDesc>
+    </runes>
+    <runes>
+        <id>8352</id>
+        <key>TimeWarpTonic</key>
+        <icon>img_runes/Inspiration/TimeWarpTonic/TimeWarpTonic.png</icon>
+        <name>Time Warp Tonic</name>
+        <shortDesc>Potions and biscuits grant some restoration immediately. Gain &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_MS&#x27;&gt;MS&lt;/lol-uikit-tooltipped-keyword&gt;  while under their effects.</shortDesc>
+        <longDesc>Consuming a potion or biscuit grants 50% of its health or mana restoration immediately. In addition, gain &lt;speed&gt;5% Move Speed&lt;/speed&gt; while under their effects.&lt;br&gt;&lt;br&gt;</longDesc>
+    </runes>
+
+
+
+    <id>8000</id>
+    <key>Precision</key>
+    <icon>img_runes/7201_Precision.png</icon>
+    <name>Precision</name>
+
+    <runes>
+        <id>8005</id>
+        <key>PressTheAttack</key>
+        <icon>img_runes/Precision/PressTheAttack/PressTheAttack.png</icon>
+        <name>Press the Attack</name>
+        <shortDesc>Hitting an enemy champion 3 consecutive times makes them vulnerable, dealing bonus damage and causing them to take more damage from all sources for 6s.</shortDesc>
+        <longDesc>Hitting an enemy champion with 3 consecutive basic attacks deals 40 - 180 bonus &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_AdaptiveDmg&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive damage&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; (based on level) and makes them vulnerable, increasing the damage they take by 8 - 12% from all sources for 6s.</longDesc>
+    </runes>
+    <runes>
+        <id>8008</id>
+        <key>LethalTempo</key>
+        <icon>img_runes/Precision/LethalTempo/LethalTempoTemp.png</icon>
+        <name>Lethal Tempo</name>
+        <shortDesc>1.5s after damaging a champion gain a large amount of Attack Speed. Lethal Tempo allows you to temporarily exceed the attack speed limit.</shortDesc>
+        <longDesc>1.5s after damaging a champion gain 40 - 110% Attack Speed (based on level) for 3s. Attacking a champion extends the effect to 6s.&lt;br&gt;&lt;br&gt;Cooldown: 6s&lt;br&gt;&lt;br&gt;Lethal Tempo allows you to temporarily exceed the attack speed limit.</longDesc>
+    </runes>
+    <runes>
+        <id>8021</id>
+        <key>FleetFootwork</key>
+        <icon>img_runes/Precision/FleetFootwork/FleetFootwork.png</icon>
+        <name>Fleet Footwork</name>
+        <shortDesc>Attacking and moving builds Energy stacks. At 100 stacks, your next attack heals you and grants increased &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_MS&#x27;&gt;MS&lt;/lol-uikit-tooltipped-keyword&gt;.</shortDesc>
+        <longDesc>Attacking and moving builds Energy stacks. At 100 stacks, your next attack is Energized&lt;br&gt;&lt;br&gt;Energized attacks heal you for 3 - 60 (+0.3 Bonus AD, +0.2 AP) and grant &lt;speed&gt;20% Move Speed&lt;/speed&gt; for 1s.&lt;br&gt;&lt;br&gt;Healing from minions is 20% effective for Ranged Champions.</longDesc>
+    </runes>
+    <runes>
+        <id>8010</id>
+        <key>Conqueror</key>
+        <icon>img_runes/Precision/Conqueror/Conqueror.png</icon>
+        <name>Conqueror</name>
+        <shortDesc>Gain stacks of adaptive force when attacking enemy champions. After reaching 12 stacks, heal for a portion of damage you deal to champions.</shortDesc>
+        <longDesc>Basic attacks or spells that deal damage to an enemy champion grant 2 stacks of Conqueror for 6s, gaining 2-5 &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;Adaptive Force&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; per stack. Stacks up to 12 times. Ranged champions gain only 1 stack per basic attack.&lt;br&gt;&lt;br&gt;When fully stacked, heal for 9% of the damage you deal to champions (6% for ranged champions).</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>9101</id>
+        <key>Overheal</key>
+        <icon>img_runes/Precision/Overheal.png</icon>
+        <name>Overheal</name>
+        <shortDesc>Excess healing on you becomes a shield.</shortDesc>
+        <longDesc>Excess healing on you becomes a shield, for up to 10 &lt;scaleHealth&gt;(+10% Max Health)&lt;/scaleHealth&gt;.&lt;br&gt;&lt;br&gt;Shield is built up from 20 to 100% of excess healing from yourself or any ally.</longDesc>
+    </runes>
+    <runes>
+        <id>9111</id>
+        <key>Triumph</key>
+        <icon>img_runes/Precision/Triumph.png</icon>
+        <name>Triumph</name>
+        <shortDesc>&lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;Takedowns&lt;/lol-uikit-tooltipped-keyword&gt; restore 12% of your missing health and grant an additional 20 gold. </shortDesc>
+        <longDesc>Takedowns restore 12% of your missing health and grant an additional 20 gold. &lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;i&gt;&#x27;The most dangerous game brings the greatest glory.&#x27; &lt;br&gt;—Noxian Reckoner&lt;/i&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8009</id>
+        <key>PresenceOfMind</key>
+        <icon>img_runes/Precision/PresenceOfMind/PresenceOfMind.png</icon>
+        <name>Presence of Mind</name>
+        <shortDesc>Increase your mana or energy regeneration when damaging an enemy champion. Takedowns restore mana or energy.</shortDesc>
+        <longDesc>Damaging an enemy champion increases your mana regeneration by @RegenAmount@ (80% for ranged) mana per second for 4 seconds. All energy users gain 1.5 energy per second, instead.&lt;br&gt;&lt;br&gt;Takedowns restore 15% of your maximum mana or energy. </longDesc>
+    </runes>
+
+
+    <runes>
+        <id>9104</id>
+        <key>LegendAlacrity</key>
+        <icon>img_runes/Precision/LegendAlacrity/LegendAlacrity.png</icon>
+        <name>Legend: Alacrity</name>
+        <shortDesc>&lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;Takedowns&lt;/lol-uikit-tooltipped-keyword&gt; on enemies grant permanent &lt;b&gt;Attack Speed&lt;/b&gt;. </shortDesc>
+        <longDesc>Gain 3% attack speed plus an additional 1.5% for every &lt;i&gt;Legend&lt;/i&gt; stack (&lt;statGood&gt;max 10 stacks&lt;/statGood&gt;).&lt;br&gt;&lt;br&gt;Earn progress toward &lt;i&gt;Legend&lt;/i&gt; stacks for every champion takedown, epic monster takedown, large monster kill, and minion kill.</longDesc>
+    </runes>
+    <runes>
+        <id>9105</id>
+        <key>LegendTenacity</key>
+        <icon>img_runes/Precision/LegendTenacity/LegendTenacity.png</icon>
+        <name>Legend: Tenacity</name>
+        <shortDesc>&lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;Takedowns&lt;/lol-uikit-tooltipped-keyword&gt; on enemies grant permanent &lt;b&gt;Tenacity&lt;/b&gt;. </shortDesc>
+        <longDesc>Gain 5% tenacity plus an additional 2.5% for every &lt;i&gt;Legend&lt;/i&gt; stack (&lt;statGood&gt;max 10 stacks&lt;/statGood&gt;).&lt;br&gt;&lt;br&gt;Earn progress toward &lt;i&gt;Legend&lt;/i&gt; stacks for every champion takedown, epic monster takedown, large monster kill, and minion kill.</longDesc>
+    </runes>
+    <runes>
+        <id>9103</id>
+        <key>LegendBloodline</key>
+        <icon>img_runes/Precision/LegendBloodline/LegendBloodline.png</icon>
+        <name>Legend: Bloodline</name>
+        <shortDesc>&lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Takedown&#x27;&gt;Takedowns&lt;/lol-uikit-tooltipped-keyword&gt; on enemies grant permanent&lt;b&gt; Lifesteal&lt;/b&gt;. Weaker earlier but stronger later game than other Legend Runes.</shortDesc>
+        <longDesc>Gain 0.6% lifesteal for every &lt;i&gt;Legend&lt;/i&gt; stack (&lt;statGood&gt;max 15 stacks&lt;/statGood&gt;).&lt;br&gt;&lt;br&gt;Earn progress toward &lt;i&gt;Legend&lt;/i&gt; stacks for every champion takedown, epic monster takedown, large monster kill, and minion kill.</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8014</id>
+        <key>CoupDeGrace</key>
+        <icon>img_runes/Precision/CoupDeGrace/CoupDeGrace.png</icon>
+        <name>Coup de Grace</name>
+        <shortDesc>Deal more damage to low health enemy champions.</shortDesc>
+        <longDesc>Deal 8% more damage to champions who have less than 40% health.</longDesc>
+    </runes>
+    <runes>
+        <id>8017</id>
+        <key>CutDown</key>
+        <icon>img_runes/Precision/CutDown/CutDown.png</icon>
+        <name>Cut Down</name>
+        <shortDesc>Deal more damage to champions with more max health than you.</shortDesc>
+        <longDesc>Deal 5% to 15% more damage to champions, based on how much more max health they have than you.&lt;br&gt;&lt;br&gt;&lt;rules&gt;Bonus damage scales up linearly against enemies with 10% to 100% more max health than you.&lt;/rules&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8299</id>
+        <key>LastStand</key>
+        <icon>img_runes/Sorcery/LastStand/LastStand.png</icon>
+        <name>Last Stand</name>
+        <shortDesc>Deal more damage to champions while you are low on health.</shortDesc>
+        <longDesc>Deal 5% - 11% increased damage to champions while you are below 60% health. Max damage gained at 30% health.</longDesc>
+    </runes>
+
+
+
+    <id>8400</id>
+    <key>Resolve</key>
+    <icon>img_runes/7204_Resolve.png</icon>
+    <name>Resolve</name>
+
+    <runes>
+        <id>8437</id>
+        <key>GraspOfTheUndying</key>
+        <icon>img_runes/Resolve/GraspOfTheUndying/GraspOfTheUndying.png</icon>
+        <name>Grasp of the Undying</name>
+        <shortDesc>Every 4s your next attack on a champion deals bonus magic damage, heals you, and permanently increases your health.</shortDesc>
+        <longDesc>Every 4s in combat, your next basic attack on a champion will:&lt;li&gt;Deal bonus magic damage equal to 4% of your max health&lt;/li&gt;&lt;li&gt;Heals you for 2% of your max health&lt;/li&gt;&lt;li&gt;Permanently increase your health by 5&lt;/li&gt;&lt;br&gt;&lt;rules&gt;&lt;i&gt;Ranged Champions:&lt;/i&gt; Damage, healing, and permanent health gained reduced by 40%.&lt;/rules&gt;&lt;br&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8439</id>
+        <key>Aftershock</key>
+        <icon>img_runes/Resolve/VeteranAftershock/VeteranAftershock.png</icon>
+        <name>Aftershock</name>
+        <shortDesc>After &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Immobilize&#x27;&gt;immobilizing&lt;/lol-uikit-tooltipped-keyword&gt; an enemy champion gain defenses and later deal a burst of magic damage around you.</shortDesc>
+        <longDesc>After immobilizing an enemy champion, increase your Armor and Magic Resist by 35 + 80% of your Bonus Resists for 2.5s. Then explode, dealing magic damage to nearby enemies.&lt;br&gt;&lt;br&gt;Damage: 25 - 120 (+8% of your bonus health)&lt;br&gt;Cooldown: 20s&lt;br&gt;&lt;br&gt;Resistance bonus from Aftershock capped at: 80-150 (based on level)&lt;br&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8465</id>
+        <key>Guardian</key>
+        <icon>img_runes/Resolve/Guardian/Guardian.png</icon>
+        <name>Guardian</name>
+        <shortDesc>Guard allies you cast spells on and those that are very nearby. If you or a guarded ally would take damage based on level, you&#x27;re both granted a shield.</shortDesc>
+        <longDesc>&lt;i&gt;Guard&lt;/i&gt; allies within 350 units of you, and allies you target with spells for 2.5s. While &lt;i&gt;Guarding&lt;/i&gt;, if you or the ally take more than a small amount of damage over the duration of the &lt;i&gt;Guard&lt;/i&gt;, both of you gain a shield for 1.5s.&lt;br&gt;&lt;br&gt;Cooldown: &lt;scaleLevel&gt;70 - 40&lt;/scaleLevel&gt; seconds&lt;br&gt;Shield: &lt;scaleLevel&gt;70 - 150&lt;/scaleLevel&gt; + &lt;scaleAP&gt;15%&lt;/scaleAP&gt; of your ability power + &lt;scalehealth&gt;9%&lt;/scalehealth&gt; of your bonus health&lt;br&gt;Proc Threshold: &lt;scaleLevel&gt;90 - 250&lt;/scaleLevel&gt; postmitigation damage</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8446</id>
+        <key>Demolish</key>
+        <icon>img_runes/Resolve/Demolish/Demolish.png</icon>
+        <name>Demolish</name>
+        <shortDesc>Charge up a powerful attack against a tower while near it.</shortDesc>
+        <longDesc>Charge up a powerful attack against a tower over 3s, while within 600 range of it. The charged attack deals 100 (+35% of your max health) bonus physical damage. &lt;br&gt;&lt;br&gt;Cooldown: 45s</longDesc>
+    </runes>
+    <runes>
+        <id>8463</id>
+        <key>FontOfLife</key>
+        <icon>img_runes/Resolve/FontOfLife/FontOfLife.png</icon>
+        <name>Font of Life</name>
+        <shortDesc>&lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_ImpairMov&#x27;&gt;Impairing&lt;/lol-uikit-tooltipped-keyword&gt; the movement of an enemy champion marks them. Your allies heal when attacking champions you&#x27;ve marked. </shortDesc>
+        <longDesc>Impairing the movement of an enemy champion marks them for 4s.&lt;br&gt;&lt;br&gt;Ally champions who attack marked enemies heal for 5 + 1% of your max health over 2s. </longDesc>
+    </runes>
+    <runes>
+        <id>8401</id>
+        <key>ShieldBash</key>
+        <icon>img_runes/Resolve/MirrorShell/MirrorShell.png</icon>
+        <name>Shield Bash</name>
+        <shortDesc>Whenever you gain a shield, your next basic attack against a champion deals bonus &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; damage.</shortDesc>
+        <longDesc>While shielded, gain &lt;scaleLevel&gt;1 - 10&lt;/scaleLevel&gt; Armor and Magic Resist based on Level.&lt;br&gt;&lt;br&gt;Whenever you gain a new shield,  your next basic attack against a champion deals &lt;scaleLevel&gt;5 - 30&lt;/scaleLevel&gt; &lt;scaleHealth&gt;(+1.5% Bonus Health)&lt;/scaleHealth&gt; &lt;scaleMana&gt;(+8.5% New Shield Amount)&lt;/scaleMana&gt; bonus &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; damage.&lt;br&gt;&lt;br&gt;You have up to 2s after the shield expires to use this effect.</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8429</id>
+        <key>Conditioning</key>
+        <icon>img_runes/Resolve/Conditioning/Conditioning.png</icon>
+        <name>Conditioning</name>
+        <shortDesc>After 12 min gain +9 Armor and +9 Magic Resist and increase your Armor and Magic Resist by 5%.</shortDesc>
+        <longDesc>After 12 min gain +9 Armor and +9 Magic Resist and increase your Armor and Magic Resist by 5%.</longDesc>
+    </runes>
+    <runes>
+        <id>8444</id>
+        <key>SecondWind</key>
+        <icon>img_runes/Resolve/SecondWind/SecondWind.png</icon>
+        <name>Second Wind</name>
+        <shortDesc>After taking damage from an enemy champion heal back some missing health over time. </shortDesc>
+        <longDesc>After taking damage from an enemy champion, heal for 4% of your missing health +6 over 10s.</longDesc>
+    </runes>
+    <runes>
+        <id>8473</id>
+        <key>BonePlating</key>
+        <icon>img_runes/Resolve/BonePlating/BonePlating.png</icon>
+        <name>Bone Plating</name>
+        <shortDesc>After taking damage from an enemy champion, the next 3 spells or attacks you receive from them deal 30-60 less damage.&lt;br&gt;&lt;br&gt;&lt;br&gt;Duration: 1.5s&lt;br&gt;Cooldown: 45s</shortDesc>
+        <longDesc>After taking damage from an enemy champion, the next 3 spells or attacks you receive from them deal 30-60 less damage.&lt;br&gt;&lt;br&gt;&lt;br&gt;Duration: 1.5s&lt;br&gt;Cooldown: 45s</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8451</id>
+        <key>Overgrowth</key>
+        <icon>img_runes/Resolve/Overgrowth/Overgrowth.png</icon>
+        <name>Overgrowth</name>
+        <shortDesc>Gain permanent max health when minions or monsters die near you.</shortDesc>
+        <longDesc>Absorb life essence from monsters or enemy minions that die near you, permanently gaining 3 maximum health for every 8.&lt;br&gt;&lt;br&gt;When you&#x27;ve absorbed 120 monsters or enemy minions, gain an additional 3.5% maximum health.</longDesc>
+    </runes>
+    <runes>
+        <id>8453</id>
+        <key>Revitalize</key>
+        <icon>img_runes/Resolve/Revitalize/Revitalize.png</icon>
+        <name>Revitalize</name>
+        <shortDesc>Gain 5% Heal and Shield Power.&lt;br&gt;&lt;br&gt;Heals and shields you cast or receive are 10% stronger on targets below 40% health.</shortDesc>
+        <longDesc>Gain 5% Heal and Shield Power.&lt;br&gt;&lt;br&gt;Heals and shields you cast or receive are 10% stronger on targets below 40% health.</longDesc>
+    </runes>
+    <runes>
+        <id>8242</id>
+        <key>Unflinching</key>
+        <icon>img_runes/Sorcery/Unflinching/Unflinching.png</icon>
+        <name>Unflinching</name>
+        <shortDesc>Gain a small amount of tenacity that increases with missing health. </shortDesc>
+        <longDesc>Gain 10% Tenacity and 10% Slow Resist. These values increase by up to an additional 20% Tenacity and 20% Slow Resist based on missing health. Maximum value achieved at 30% health. </longDesc>
+    </runes>
+
+
+
+    <id>8200</id>
+    <key>Sorcery</key>
+    <icon>img_runes/7202_Sorcery.png</icon>
+    <name>Sorcery</name>
+
+    <runes>
+        <id>8214</id>
+        <key>SummonAery</key>
+        <icon>img_runes/Sorcery/SummonAery/SummonAery.png</icon>
+        <name>Summon Aery</name>
+        <shortDesc>Your attacks and abilities send Aery to a target, damaging enemies or shielding allies.</shortDesc>
+        <longDesc>Damaging enemy champions with basic attacks or abilities sends Aery to them, dealing 10 - 40 based on level (+&lt;scaleAP&gt;0.1 AP&lt;/scaleAP&gt;) (+&lt;scaleAD&gt;0.15 bonus AD&lt;/scaleAD&gt;).&lt;br&gt;&lt;br&gt;Empower or protecting allies with abilities sends Aery to them, shielding them for 35 - 80 based on level (+&lt;scaleAP&gt;0.25 AP&lt;/scaleAP&gt;) (+&lt;scaleAD&gt;0.4 bonus AD&lt;/scaleAD&gt;).&lt;br&gt;&lt;br&gt;Aery cannot be sent out again until she returns to you.</longDesc>
+    </runes>
+    <runes>
+        <id>8229</id>
+        <key>ArcaneComet</key>
+        <icon>img_runes/Sorcery/ArcaneComet/ArcaneComet.png</icon>
+        <name>Arcane Comet</name>
+        <shortDesc>Damaging a champion with an ability hurls a damaging comet at their location.</shortDesc>
+        <longDesc>Damaging a champion with an ability hurls a comet at their location, or, if Arcane Comet is on cooldown, reduces its remaining cooldown.&lt;br&gt;&lt;br&gt;&lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_AdaptiveDmg&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;Adaptive Damage&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt;: 30 - 100 based on level (&lt;scaleAP&gt;+0.2 AP&lt;/scaleAP&gt; and &lt;scaleAD&gt;+0.35 bonus AD&lt;/scaleAD&gt;)&lt;br&gt;Cooldown: 20 - 8s&lt;br&gt;&lt;rules&gt;&lt;br&gt;Cooldown Reduction:&lt;br&gt;Single Target: 20%.&lt;br&gt;Area of Effect: 10%.&lt;br&gt;Damage over Time: 5%.&lt;br&gt;&lt;/rules&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8230</id>
+        <key>PhaseRush</key>
+        <icon>img_runes/Sorcery/PhaseRush/PhaseRush.png</icon>
+        <name>Phase Rush</name>
+        <shortDesc>Hitting an enemy champion with 3 &lt;b&gt;separate&lt;/b&gt; attacks or abilities grants a burst of &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_MS&#x27;&gt;MS&lt;/lol-uikit-tooltipped-keyword&gt;. </shortDesc>
+        <longDesc>Hitting an enemy champion with 3 attacks or &lt;b&gt;separate&lt;/b&gt; abilities within 4s grants &lt;speed&gt;15 - 40% Move Speed&lt;/speed&gt; based on level and 75% Slow Resistance. &lt;hr&gt;This is increased to &lt;speed&gt;30 - 60% Move Speed&lt;/speed&gt; for Melee champions.&lt;hr&gt;Duration: 3s&lt;br&gt;Cooldown: 10s - 30s</longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8224</id>
+        <key>NullifyingOrb</key>
+        <icon>img_runes/Sorcery/NullifyingOrb/Pokeshield.png</icon>
+        <name>Nullifying Orb</name>
+        <shortDesc>Gain a magic damage shield when taken to low health by magic damage.</shortDesc>
+        <longDesc>When you take magic damage that would reduce your Health below 30%, gain a shield that absorbs 40 - 120 magic damage based on level (&lt;scaleAP&gt;+0.1 AP&lt;/scaleAP&gt; and &lt;scaleAD&gt;+0.15 bonus AD&lt;/scaleAD&gt;) for 4s.&lt;br&gt;&lt;br&gt;Cooldown: 60s</longDesc>
+    </runes>
+    <runes>
+        <id>8226</id>
+        <key>ManaflowBand</key>
+        <icon>img_runes/Sorcery/ManaflowBand/ManaflowBand.png</icon>
+        <name>Manaflow Band</name>
+        <shortDesc>Hitting an enemy champion with an ability permanently increases your maximum mana by 25, up to 250 mana.&lt;br&gt;&lt;br&gt;After reaching 250 bonus mana, restore 1% of your missing mana every 5 seconds.</shortDesc>
+        <longDesc>Hitting an enemy champion with an ability permanently increases your maximum mana by 25, up to 250 mana.&lt;br&gt;&lt;br&gt;After reaching 250 bonus mana, restore 1% of your missing mana every 5 seconds.&lt;br&gt;&lt;br&gt;Cooldown: 15 seconds</longDesc>
+    </runes>
+    <runes>
+        <id>8275</id>
+        <key>NimbusCloak</key>
+        <icon>img_runes/Sorcery/NimbusCloak/6361.png</icon>
+        <name>Nimbus Cloak</name>
+        <shortDesc>After casting a Summoner Spell, gain a short &lt;speed&gt;Move Speed&lt;/speed&gt; increase that allows you to pass through units.</shortDesc>
+        <longDesc>After casting a Summoner Spell, gain a &lt;speed&gt;Move Speed&lt;/speed&gt; increase that lasts for 2s and allows you to pass through units.&lt;br&gt;&lt;br&gt;Increase: &lt;speed&gt;5% - 35% Move Speed&lt;/speed&gt; based on the Summoner Spell&#x27;s cooldown. (Higher cooldown Summoner Spells grant more &lt;speed&gt;Move Speed&lt;/speed&gt;). </longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8210</id>
+        <key>Transcendence</key>
+        <icon>img_runes/Sorcery/Transcendence/Transcendence.png</icon>
+        <name>Transcendence</name>
+        <shortDesc>Gain bonuses upon reaching the following levels:&lt;br&gt;Level 5: +5 &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_CDR&#x27;&gt;Ability Haste&lt;/lol-uikit-tooltipped-keyword&gt; &lt;br&gt;Level 8: +5 &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_CDR&#x27;&gt;Ability Haste&lt;/lol-uikit-tooltipped-keyword&gt; &lt;br&gt;Level 11: On Champion takedown, reduce the remaining cooldown of basic abilities by 20%.</shortDesc>
+        <longDesc>Gain bonuses upon reaching the following levels:&lt;br&gt;Level 5: +5 &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_CDR&#x27;&gt;Ability Haste&lt;/lol-uikit-tooltipped-keyword&gt; &lt;br&gt;Level 8: +5 &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_CDR&#x27;&gt;Ability Haste&lt;/lol-uikit-tooltipped-keyword&gt; &lt;br&gt;Level 11: On Champion takedown, reduce the remaining cooldown of basic abilities by 20%.&lt;br&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8234</id>
+        <key>Celerity</key>
+        <icon>img_runes/Sorcery/Celerity/CelerityTemp.png</icon>
+        <name>Celerity</name>
+        <shortDesc>All &lt;speed&gt;Move Speed&lt;/speed&gt; bonuses are 7% more effective on you and gain &lt;speed&gt;1% Move Speed&lt;/speed&gt;.</shortDesc>
+        <longDesc>All movement bonuses are 7% more effective on you and gain &lt;speed&gt;1% Move Speed&lt;/speed&gt;.</longDesc>
+    </runes>
+    <runes>
+        <id>8233</id>
+        <key>AbsoluteFocus</key>
+        <icon>img_runes/Sorcery/AbsoluteFocus/AbsoluteFocus.png</icon>
+        <name>Absolute Focus</name>
+        <shortDesc>While above 70% health, gain extra &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_AdaptiveDmg&#x27;&gt;adaptive damage&lt;/lol-uikit-tooltipped-keyword&gt;.</shortDesc>
+        <longDesc>While above 70% health, gain an &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; bonus of up to 18 Attack Damage or 30 Ability Power (based on level). &lt;br&gt;&lt;br&gt;Grants 1.8 Attack Damage or 3 Ability Power at level 1. </longDesc>
+    </runes>
+
+
+    <runes>
+        <id>8237</id>
+        <key>Scorch</key>
+        <icon>img_runes/Sorcery/Scorch/Scorch.png</icon>
+        <name>Scorch</name>
+        <shortDesc>Your first damaging ability hit every 10s burns champions.</shortDesc>
+        <longDesc>Your next damaging ability hit sets champions on fire dealing 15 - 35 bonus magic damage based on level after 1s.&lt;br&gt;&lt;br&gt;Cooldown: 10s</longDesc>
+    </runes>
+    <runes>
+        <id>8232</id>
+        <key>Waterwalking</key>
+        <icon>img_runes/Sorcery/Waterwalking/Waterwalking.png</icon>
+        <name>Waterwalking</name>
+        <shortDesc>Gain &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_MS&#x27;&gt;MS&lt;/lol-uikit-tooltipped-keyword&gt; and AP or AD, &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;adaptive&lt;/lol-uikit-tooltipped-keyword&gt; in the river.</shortDesc>
+        <longDesc>Gain &lt;speed&gt;25 Move Speed&lt;/speed&gt; and an &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt; bonus of up to 18 Attack Damage or 30 Ability Power (based on level) when in the river.&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;i&gt;May you be as swift as the rushing river and agile as a startled Rift Scuttler.&lt;/i&gt;&lt;br&gt;</longDesc>
+    </runes>
+    <runes>
+        <id>8236</id>
+        <key>GatheringStorm</key>
+        <icon>img_runes/Sorcery/GatheringStorm/GatheringStorm.png</icon>
+        <name>Gathering Storm</name>
+        <shortDesc>Gain increasing amounts of AD or AP, &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;adaptive&lt;/lol-uikit-tooltipped-keyword&gt; over the course of the game.</shortDesc>
+        <longDesc>Every 10 min gain AP or AD, &lt;lol-uikit-tooltipped-keyword key=&#x27;LinkTooltip_Description_Adaptive&#x27;&gt;&lt;font color=&#x27;#48C4B7&#x27;&gt;adaptive&lt;/font&gt;&lt;/lol-uikit-tooltipped-keyword&gt;.&lt;br&gt;&lt;br&gt;&lt;i&gt;10 min&lt;/i&gt;: + 8 AP or 5 AD &lt;br&gt;&lt;i&gt;20 min&lt;/i&gt;: + 24 AP or 14 AD&lt;br&gt;&lt;i&gt;30 min&lt;/i&gt;: + 48 AP or 29 AD&lt;br&gt;&lt;i&gt;40 min&lt;/i&gt;: + 80 AP or 48 AD&lt;br&gt;&lt;i&gt;50 min&lt;/i&gt;: + 120 AP or 72 AD&lt;br&gt;&lt;i&gt;60 min&lt;/i&gt;: + 168 AP or 101 AD&lt;br&gt;etc...</longDesc>
+    </runes>
+
+</data>
